@@ -25,6 +25,8 @@ import junit.framework.Assert;
 import org.apache.felix.dm.Component;
 import org.osgi.service.packageadmin.PackageAdmin;
 
+
+
 /**
  * This class serves as a minimal example of our integration tests. Also, if this test fails, something is likely
  * wrong with the environment
@@ -34,6 +36,7 @@ public class ExampleTest extends IntegrationTestBase {
 
 //    @Configuration
 //    public Option[] configuration() {
+    //comment
 //        return options(
 //            // you can add additional directives, e.g. systemProperty or VMOptions here
 //            junitBundles(),
