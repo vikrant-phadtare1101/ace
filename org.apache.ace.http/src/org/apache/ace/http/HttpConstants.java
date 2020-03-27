@@ -29,6 +29,8 @@ public interface HttpConstants {
     /**
      * Filter used to bind the servlets to the servlet context helper from ACE.
      */
+    
+    //comment
     String ACE_WHITEBOARD_CONTEXT_SELECT_FILTER = "(" + HTTP_WHITEBOARD_CONTEXT_NAME + "=" + ACE_WHITEBOARD_CONTEXT_NAME + ")";
 
 }
